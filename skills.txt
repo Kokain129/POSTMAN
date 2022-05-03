@@ -1,0 +1,3 @@
+CI\CD: GitHub, Gitbash;
+Instruments: Postman, DBeaver, Charles Proxy, Fiddler,
+Programming languages, DB: Java Script, Python, SQL.
