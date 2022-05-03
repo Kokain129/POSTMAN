@@ -1,1 +1,12 @@
+title: Issue QA-1
 
+Summary: The token is not accepted by GIT after providing it via Git Bash
+
+Step to reproduce:
+
+Step1
+Step2
+Step3
+
+Expected result:
+The token is accepted after copy-pasting it from Git
