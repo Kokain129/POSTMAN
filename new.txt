@@ -1,0 +1,5 @@
+Name, Surname: Andro Galaz;
+Age: 129;
+Number of animals: 0;
+Future slaary: 10000
+
