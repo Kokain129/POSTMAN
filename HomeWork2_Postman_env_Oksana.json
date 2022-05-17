@@ -1,0 +1,35 @@
+{
+	"id": "a1d497df-b157-4baa-b73a-45bfa553f75f",
+	"name": "Group29",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "162.55.220.72:5005",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "Andromeda",
+			"enabled": true
+		},
+		{
+			"key": "weight",
+			"value": "52",
+			"enabled": true
+		},
+		{
+			"key": "salary",
+			"value": "1200",
+			"enabled": true
+		},
+		{
+			"key": "age",
+			"value": "30",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-05-17T09:17:25.072Z",
+	"_postman_exported_using": "Postman/9.18.2"
+}
